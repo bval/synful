@@ -1,0 +1,5 @@
+;$Id
+name = "Synful"
+description = "Attaches a Symfony application to the Drupal menu structure and renders Symfony actions as part of a Drupal site."
+core = 6.x
+php = 5.2

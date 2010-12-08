@@ -1,0 +1,5 @@
+Drupal module to embed symfony apps inside Drupal
+
+Known Issues:
+
+* Symfony sessions do not persist across pageviews, Drupal sessions are interfering.
